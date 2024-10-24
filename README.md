@@ -1,3 +1,40 @@
-# js-escrevenome
+html>
 
-<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+<head>
+   <link rel="stylesheet" href="styles.css" />
+   <title>Gustavo Bueno 1 b</title>
+
+</head>
+ 
+ 
+ <body>
+ 
+ 
+ <header>ALURAFLIX</header>
+
+
+<div>
+ <h1>Venom: A Última Rodada | Trailer Final Dublado</h1>
+ <p>#FILME</p>
+</div>
+
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-1i96qpF-s?si=Sjdk-_2Ih4iZTmCV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+ 
+
+ </body>
+
+</html>
+
+
+
+
+
+
+
+body{
+
+   background-color: black;
+   color: white
+ }
